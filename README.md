@@ -1,2 +1,2 @@
 # Gemini-AI_Conversational_Agent
-It's a basic agent code using Gemini AI model.
+It's a basic agent code using Gemini AI model with history.
